@@ -15,7 +15,7 @@ const Thisara = {
     name: "Thisara Dasun",
     location: "Sri Lanka, Kandy",
     email: thisarad28@gmail.com",
-    phone: "+94720923021",
+    phone: "+94789854096",
     code: ["Javascript", "Python", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "Ai", "ui/ux design"],
     technologies: {
