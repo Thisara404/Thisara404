@@ -1,45 +1,55 @@
-<div align="center">
-  <svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0F2027;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#203A43;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#2C5364;stop-opacity:1" />
-      </linearGradient>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="8" result="blur" />
-        <feFlood flood-color="#00A2FF" flood-opacity="0.3" result="flood" />
-        <feComposite in="flood" in2="blur" operator="in" result="masked-blur" />
-        <feMerge>
-          <feMergeNode in="masked-blur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="100%" height="180" fill="url(#headerGradient)" />
-    <g filter="url(#glow)">
-      <text x="50%" y="65" text-anchor="middle" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="40" font-weight="bold" fill="white">THISARA DASUN</text>
-      <text x="50%" y="110" text-anchor="middle" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="18" fill="white">DEVELOPER | DESIGNER | PROBLEM SOLVER</text>
-      <g transform="translate(160, 150)">
-        <circle cx="0" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="20" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="40" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="60" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="80" cy="0" r="6" fill="#00A2FF" />
-      </g>
-      <g transform="translate(590, 150)">
-        <circle cx="0" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="20" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="40" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="60" cy="0" r="6" fill="#00A2FF" />
-        <circle cx="80" cy="0" r="6" fill="#00A2FF" />
-      </g>
-    </g>
-  </svg>
-</div>
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Thisara+Dasun+%F0%9F%91%8B;Mobile+App+Developer;Fullstack+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
-</div>
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2b5876;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4e4376;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="highlight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00A2FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00F2FF;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" />
+  
+  <!-- Decorative elements -->
+  <g fill="url(#highlight)" opacity="0.1">
+    <circle cx="100" cy="50" r="20" />
+    <circle cx="700" cy="150" r="30" />
+    <circle cx="650" cy="50" r="15" />
+    <circle cx="150" cy="150" r="25" />
+    
+    <rect x="200" y="40" width="400" height="5" rx="2" />
+    <rect x="200" y="160" width="400" height="5" rx="2" />
+    
+    <!-- Code symbols -->
+    <text x="50" y="100" font-family="monospace" font-size="30" opacity="0.6">&lt;/&gt;</text>
+    <text x="730" y="100" font-family="monospace" font-size="30" opacity="0.6">{}</text>
+  </g>
+  
+  <!-- Main text -->
+  <g filter="url(#shadow)">
+    <text x="400" y="90" font-family="'Segoe UI', sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">THISARA DASUN</text>
+    <text x="400" y="130" font-family="'Segoe UI', sans-serif" font-size="18" fill="white" text-anchor="middle">FULLSTACK DEVELOPER • MOBILE APP SPECIALIST</text>
+  </g>
+  
+  <!-- Tech icons -->
+  <g transform="translate(270, 160)">
+    <circle cx="0" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="30" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="60" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="90" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="120" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="150" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="180" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="210" cy="0" r="8" fill="url(#highlight)" />
+    <circle cx="240" cy="0" r="8" fill="url(#highlight)" />
+  </g>
+</svg>
 
 ---
 
