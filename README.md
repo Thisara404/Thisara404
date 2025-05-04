@@ -1,5 +1,42 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<div align="center">
+  <svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0F2027;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#203A43;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#2C5364;stop-opacity:1" />
+      </linearGradient>
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="8" result="blur" />
+        <feFlood flood-color="#00A2FF" flood-opacity="0.3" result="flood" />
+        <feComposite in="flood" in2="blur" operator="in" result="masked-blur" />
+        <feMerge>
+          <feMergeNode in="masked-blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="100%" height="180" fill="url(#headerGradient)" />
+    <g filter="url(#glow)">
+      <text x="50%" y="65" text-anchor="middle" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="40" font-weight="bold" fill="white">THISARA DASUN</text>
+      <text x="50%" y="110" text-anchor="middle" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="18" fill="white">DEVELOPER | DESIGNER | PROBLEM SOLVER</text>
+      <g transform="translate(160, 150)">
+        <circle cx="0" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="20" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="40" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="60" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="80" cy="0" r="6" fill="#00A2FF" />
+      </g>
+      <g transform="translate(590, 150)">
+        <circle cx="0" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="20" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="40" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="60" cy="0" r="6" fill="#00A2FF" />
+        <circle cx="80" cy="0" r="6" fill="#00A2FF" />
+      </g>
+    </g>
+  </svg>
+</div>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Thisara+Dasun+%F0%9F%91%8B;Mobile+App+Developer;Fullstack+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
 </div>
