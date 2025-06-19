@@ -49,7 +49,7 @@ const Thisara = {
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thisara404&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara404&theme=tokyonight&hide_border=true" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara404&theme=tokyonight&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
@@ -85,7 +85,7 @@ const Thisara = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="filter: invert(1);"/> 
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
@@ -136,10 +136,13 @@ const Thisara = {
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> 
 </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50"/> 
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> 
+</a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="filter: invert(1);"/> 
 </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
@@ -161,7 +164,7 @@ const Thisara = {
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thisara Dasun LinkedIn" height="50" width="50" />
   </a>
   <a href="mailto:thisarad28@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="50" width="50" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
   </a>
 </p>
 
@@ -182,6 +185,50 @@ const Thisara = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thisara404/Thisara404/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
+### ⚠️ **Snake Animation Setup Required**
+
+**The snake animation requires GitHub Actions setup. Here's how to fix it:**
+
+1. **Create the workflow file**: `.github/workflows/snake.yml` in your `Thisara404/Thisara404` repository
+
+2. **Add this exact code**:
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Thisara404
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. **Enable GitHub Actions**: Go to your repository Settings → Actions → General → Allow all actions
+4. **Run the workflow**: Go to Actions tab → "Generate Snake" → Run workflow
+5. **Wait for completion**: The snake will appear once the workflow completes successfully
+
+**Alternative**: If you don't want to set up the workflow, you can remove this entire snake section.
 
 ---
 
