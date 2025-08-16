@@ -12,7 +12,7 @@
 ---
 
 <h3 align="center">🚀 Turning Innovative Ideas into Digital Reality</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=0046FF&style=flat" alt="Thisara404" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=0ABAB5&style=flat" alt="Thisara404" /></p>
 
 ## 👨‍💻 About Me
 
