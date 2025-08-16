@@ -1,4 +1,4 @@
-<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,26,32&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
+<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,26,32&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=1DCD9F&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
 
 <!-- Background Image -->
 <div align="center">
