@@ -1,4 +1,4 @@
-<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24,30&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
+<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,26,32&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
 
 <!-- Background Image -->
 <div align="center">
@@ -6,13 +6,13 @@
 </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Developers+%F0%9F%91%8B;AI/ML+Engineer;IOT+Development;Mobile+App+Development;Full+Stack+Development;Always+Learning+New+Things" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=20B2AA&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+Developers+%F0%9F%91%8B+Welcome+to+my+GitHub!;🤖+Building+Intelligent+AI/ML+Solutions;⚡+Crafting+Smart+IoT+Ecosystems;📱+Developing+Cross-Platform+Mobile+Apps;🌐+Creating+Dynamic+Full+Stack+Applications;🔬+Exploring+Deep+Learning+%26+Neural+Networks;🛠️+Engineering+Scalable+Microservices;☁️+Deploying+Cloud-Native+Architectures;🚀+Innovating+with+Cutting-Edge+Technologies;💡+Transforming+Ideas+into+Digital+Reality;🎯+Always+Learning+%26+Evolving+in+Tech" alt="Typing SVG" />
 </div>
 
 ---
 
 <h3 align="center">🚀 Turning Innovative Ideas into Digital Reality</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=0ABAB5&style=flat" alt="Thisara404" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=20B2AA&style=flat" alt="Thisara404" /></p>
 
 ## 👨‍💻 About Me
 
@@ -52,15 +52,15 @@ const Thisara = {
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thisara404&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thisara404&theme=calm&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara404&theme=tokyonight&hide_border=true" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara404&theme=calm&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=48CAE4&currStreakNum=FFD700&sideNums=20B2AA&background=0d1117" /> 
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara404&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara404&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117" />
   <br></br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thisara404&repo=Thisara404&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thisara404&repo=Thisara404&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117" />
 </td>
 </tr>
 </table>
@@ -179,7 +179,7 @@ const Thisara = {
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&theme=tokyo-night&hide_border=true&custom_title=Thisara's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FFD700" width="100%"/>
 </div>
 
 ---
@@ -194,12 +194,12 @@ const Thisara = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24,30&height=100&section=footer"/> </div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,26,32&height=100&section=footer"/> </div>
 
 ---
 
