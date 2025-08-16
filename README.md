@@ -1,13 +1,18 @@
-<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thisara%20Dasun&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></a>
+<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24,30&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
+
+<!-- Background Image -->
+<div align="center">
+  <img src="bg.png" alt="Profile Background" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
+</div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Developers+%F0%9F%91%8B;AI/ML;IOT+Development;Mobile+App+Development;Fullstack+Development;UI/UX+Design;Freelancer;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Developers+%F0%9F%91%8B;AI/ML+Engineer;IOT+Development;Mobile+App+Development;Full+Stack+Development;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
 
 <h3 align="center">🚀 Turning Innovative Ideas into Digital Reality</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=0e75b6&style=flat" alt="Thisara404" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=0046FF&style=flat" alt="Thisara404" /></p>
 
 ## 👨‍💻 About Me
 
@@ -194,9 +199,7 @@ const Thisara = {
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24,30&height=100&section=footer"/> </div>
 
 ---
 
