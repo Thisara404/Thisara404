@@ -1,4 +1,4 @@
-<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,26,32&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=1DCD9F&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
+<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,12,17,20&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
 
 <!-- Background Image -->
 <div align="center">
@@ -194,12 +194,12 @@ const Thisara = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&color=20B2AA&border_color=48CAE4" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,26,32&height=100&section=footer"/> </div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=100&section=footer"/> </div>
 
 ---
 
