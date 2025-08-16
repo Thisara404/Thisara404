@@ -1,7 +1,7 @@
 <a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thisara%20Dasun&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></a>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Thisara+Dasun+%F0%9F%91%8B;Mobile+App+Developer;Fullstack+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Developers+%F0%9F%91%8B;AI/ML;IOT+Development;Mobile+App+Development;Fullstack+Development;UI/UX+Design;Freelancer;Problem+Solver;" alt="Headline" />
 </div>
 
 ---
@@ -17,8 +17,8 @@ const Thisara = {
     location: "Sri Lanka, Kandy",
     email: "thisarad28@gmail.com",
     phone: "+94789854096",
-    code: ["Javascript", "Python", "Java", "C#", "Dart", "C++"],
-    askMeAbout: ["web dev", "mobile dev", "tech", "AI", "ui/ux design"],
+    code: ["JavaScript", "Python", "Java", "C#", "Dart", "C++"],
+    askMeAbout: ["web dev", "mobile dev", "DevOps", "IOT", "AI/ML", "ui/ux design"],
     technologies: {
         library: ["React.js", "Flutter"],
         framework: ["Next.js", "Flutter", "Spring Boot"],
