@@ -1,4 +1,5 @@
 # Generate Snake
+name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -22,9 +23,8 @@ jobs:
         with:
           github_user_name: Thisara404
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=teal&color_dots=#f0eab4,#fcea44,#fc9944
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=teal&color_dots=#807834,#004c4c,#008080
-
+            dist/github-contribution-grid-snake.svg?color_snake=teal&color_dots=#b3e5d1,#66d9c5,#33ccb8,#00b3a6,#008080
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=teal&color_dots=#004d4d,#006666,#008080,#00b3b3,#33cccc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
