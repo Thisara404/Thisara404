@@ -19,8 +19,8 @@
 
 </div>
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&style=for-the-badge&color=b39800&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thisara404?label=Followers&style=for-the-badge&color=b39800&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-20B2AA?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
