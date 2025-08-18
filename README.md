@@ -1,20 +1,29 @@
-<a href="https://github.com/Thisara404"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:20B2AA&height=180&section=header&text=Thisara%20Dasun&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/></a>
-
 <!-- Background Image -->
 <div align="center">
   <img src="bg.png" alt="Profile Background" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
 </div>
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=20B2AA&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+Developers+%F0%9F%91%8B+Welcome+to+my+GitHub!;🤖+Building+Intelligent+AI/ML+Solutions;⚡+Crafting+Smart+IoT+Ecosystems;📱+Developing+Cross-Platform+Mobile+Apps;🌐+Creating+Dynamic+Full+Stack+Applications;🔬+Exploring+Deep+Learning+%26+Neural+Networks;🛠️+Engineering+Scalable+Microservices;☁️+Deploying+Cloud-Native+Architectures;🚀+Innovating+with+Cutting-Edge+Technologies;💡+Transforming+Ideas+into+Digital+Reality;🎯+Always+Learning+%26+Evolving+in+Tech" alt="Typing SVG" />
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:00BFFF,100:20B2AA&text=I%20am%20Thisara%20Dasun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
 </div>
 
 ---
 
-<h3 align="center">🚀 Turning Innovative Ideas into Digital Reality</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thisara404&label=Profile%20views&color=937c00&style=flat" alt="Thisara404" /></p>
+<h4 align="center">🚀 Turning Innovative Ideas into Digital Reality</h4>
 
-## 👨‍💻 About Me
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20B2AA&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Hi+Developers+%F0%9F%91%8B+Welcome+to+my+GitHub!;🤖+Building+Intelligent+AI/ML+Solutions;⚡+Crafting+Smart+IoT+Ecosystems;📱+Developing+Cross-Platform+Mobile+Apps;🌐+Creating+Dynamic+Full+Stack+Applications;🔬+Exploring+Deep+Learning+%26+Neural+Networks;🛠️+Engineering+Scalable+Microservices;☁️+Deploying+Cloud-Native+Architectures;🚀+Innovating+with+Cutting-Edge+Technologies;💡+Transforming+Ideas+into+Digital+Reality;🎯+Always+Learning+%26+Evolving+in+Tech" alt="Typing SVG" />
+</div>
+
+</div>
+<div align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-20B2AA?style=for-the-badge&labelColor=000000" alt="Focus" />
+</div>
+<br/>
 
 ```javascript
 const Thisara = {
@@ -42,10 +51,9 @@ const Thisara = {
     funFact: "There are 10 types of people in the world: those who understand binary, and those who don't 😄"
 };
 ```
-
 ---
 
-## 📊 GitHub Statistics
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
 <table align="center">
@@ -60,7 +68,7 @@ const Thisara = {
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara404&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117" />
   <br></br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thisara404&repo=Thisara404&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FFD700" width="100%"/>
 </td>
 </tr>
 </table>
@@ -68,144 +76,44 @@ const Thisara = {
 
 ---
 
-## 🛠️ Languages and Tools
+<h3 align="center">Connect with me</h3>
 
-<p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-</a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="filter: invert(1);"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-</a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
-</a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
-</a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-</a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
-</a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> 
-</a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="filter: invert(1);"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-</a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> 
-</a> 
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thisara-dasun-1a2464281" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thisara Dasun LinkedIn" height="50" width="50" />
-  </a>
-  <a href="mailto:thisarad28@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FFD700" width="100%"/>
+<a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+  &nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
 </div>
 
 ---
+<h3 align="center">Languages and Tools</h3>
 
-## 🐍 Contribution Snake
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
+ <img src="https://skillicons.dev/icons?i=figma,ps"/> 
+ <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java"/>
+ <img src="https://skillicons.dev/icons?i=hibernate,regex,mysql,postman,spring,flask,mysql,mongodb,prisma"/> 
+ <img src="https://skillicons.dev/icons?i=github,git"/>  
+ <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
+ </div>
+ 
+---
+
+<h3 align="center">Contribution Snake</h3>
 
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thisara404/Thisara404/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-## 💡 Random Dev Quote
+---
+
+<h3 align="center">Random Dev Quote</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&color=20B2AA&border_color=48CAE4" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&color=FFD700&border_color=FFD700" alt="Random Dev Quote"/>
 </div>
-
----
 
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:20B2AA&height=100&section=footer"/> </div>
 
----
-
-⭐️ From [Thisara404](https://github.com/Thisara404)
-
-<!---
-Thisara404/Thisara404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="center">Looking forward to connecting with you! 🚀</h4>
