@@ -81,7 +81,7 @@ const Thisara = {
 <div align="center">
 <a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
   &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=thisarad28@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
 </div>
 
 ---
