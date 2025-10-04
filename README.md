@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <div align="center">
-  <img src="2.png" alt="Profile Background" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
+  <img src="2.jpg" alt="Profile Background" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
 </div>
 
 <br/>
