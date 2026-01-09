@@ -62,13 +62,13 @@ const Thisara = {
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thisara404&theme=calm&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara404&theme=calm&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=48CAE4&currStreakNum=FFD700&sideNums=20B2AA&background=0d1117" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara404 streak" src="https://streak-stats.demolab.com/?user=Thisara404&theme=calm&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=48CAE4&currStreakNum=FFD700&sideNums=20B2AA&background=0d1117" /> 
 </td>
 
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara404&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117" />
   <br></br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FFD700" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FFD700&radius=16&height=300" width="100%"/>
 </td>
 </tr>
 </table>
