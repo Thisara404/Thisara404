@@ -61,13 +61,13 @@ const Thisara = {
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thisara404&show_icons=true&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=Thisara404&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117&rank_icon=github" />
   <br></br>
   <img title="🔥 Get streak stats for your profile" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara404&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=48CAE4&currStreakNum=FFD700&sideNums=20B2AA&background=0d1117" /> 
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara404&hide_border=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api/top-langs/?username=Thisara404&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117&langs_count=8" />
   <br></br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara404&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FFD700&radius=16" width="100%"/>
 </td>
