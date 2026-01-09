@@ -24,7 +24,7 @@
 
 
 
-const Thisara = {
+```javascript const Thisara = {
     name: "Thisara Dasun",
     location: "Sri Lanka, Kandy",
     email: "thisarad28@gmail.com",
@@ -47,7 +47,7 @@ const Thisara = {
     ],
     currentFocus: "Building scalable mobile and web applications",
     funFact: "There are 10 types of people in the world: those who understand binary, and those who don't 😄"
-};
+};```
 
 
 <h3 align="center">GitHub Statistics</h3>
